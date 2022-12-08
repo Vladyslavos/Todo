@@ -1,0 +1,29 @@
+.todos {
+  margin: 0 auto;
+  border-radius: 4px;
+  width: 450px;
+  min-height: 500px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  background-color: #fafafa;
+}
+.input-bar {
+  display: flex;
+  justify-content: center;
+  height: 40px;
+  margin-bottom: 8px;
+}
+.input-bar input {
+  outline: none;
+  border: 2px solid gray;
+  width: 75%;
+}
+.submit {
+  width: 15%;
+  border: none;
+  background-color: #0a7aff;
+  color: #ffff;
+  cursor: pointer;
+}
+h2 {
+  padding: 10px;
+}

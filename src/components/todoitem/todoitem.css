@@ -1,0 +1,44 @@
+.todo-item {
+  margin: 1% 0%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  height: 40px;
+  width: 90%;
+  padding: 5px;
+  border-radius: 7px;
+}
+.todo-item button {
+  cursor: pointer;
+  border-radius: 2px;
+  padding: 4px;
+}
+.todo-item input {
+  background: transparent;
+  outline: none;
+  border: none;
+}
+.delete {
+  background-color: red;
+  color: #ffff;
+  border: none;
+  height: 20px;
+  width: 30px;
+  margin-left: 5px;
+}
+.edit {
+  background-color: green;
+  color: #ffff;
+  border: none;
+  height: 20px;
+  width: 30px;
+}
+.accept {
+  background: none;
+  border: none;
+}
+.cancel {
+  background: none;
+  border: none;
+}
