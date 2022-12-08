@@ -2,7 +2,8 @@
 <p><b>Description: </b>In this project, I made a to-do list in which the user can create a tasks list, delete and edit them.</p> 
 <a href = "https://vladyslavos.github.io/Todo/">LIVE</a>
 
-![Todo List - Google Chrome 2022-12-08 21-44-39 (online-video-cutter com) (1) (1)](https://user-images.githubusercontent.com/67589338/206554243-ffe0b462-2dfa-4276-80ab-a43236965bc4.gif)
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/67589338/206555814-0c7ada62-433c-4b52-af5e-33eb524b5bd5.gif)
+
 
 <b>Technologies that I used:</b>
 
